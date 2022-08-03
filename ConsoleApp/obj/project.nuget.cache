@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0hsI7W7uywWUYXMFEFv3NVxGcBvWcjwrkpsYCKG/AdE/UV+ymDkM4pMJI/5WvpTHbmfr/WDMV5tz0l+XoUxzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91950\\Documents\\S Studio\\Clients\\Guvi\\Learning\\CSharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91950\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

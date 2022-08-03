@@ -1,0 +1,16 @@
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\bin\Debug\netcoreapp3.1\Forms.exe
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\bin\Debug\netcoreapp3.1\Forms.deps.json
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\bin\Debug\netcoreapp3.1\Forms.runtimeconfig.json
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\bin\Debug\netcoreapp3.1\Forms.runtimeconfig.dev.json
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\bin\Debug\netcoreapp3.1\Forms.dll
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\bin\Debug\netcoreapp3.1\Forms.pdb
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.csproj.AssemblyReference.cache
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.Form1.resources
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.csproj.GenerateResource.cache
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.AssemblyInfoInputs.cache
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.AssemblyInfo.cs
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.csproj.CoreCompileInputs.cache
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.dll
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.pdb
+C:\Users\91950\Documents\S Studio\Clients\Guvi\Learning\CSharp\ConsoleApp\Forms\obj\Debug\netcoreapp3.1\Forms.genruntimeconfig.cache

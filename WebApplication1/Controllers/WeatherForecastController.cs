@@ -43,7 +43,7 @@ namespace WebApplication1.Controllers
         [Route("add/weather")]
         public IActionResult AddWeather(Learning learning)
         {
-            return Ok(learning);
+            return BadRequest(learning.Name);
         }
 
         // HTTPMethods: GET, POST, PUT, DELETE, PATCH
